@@ -1,0 +1,14 @@
+C:\Repos\CollectibleGame\sand\bin\Release\sand.exe.config
+C:\Repos\CollectibleGame\sand\bin\Release\sand.exe
+C:\Repos\CollectibleGame\sand\bin\Release\sand.pdb
+C:\Repos\CollectibleGame\sand\obj\Release\CollectibleGame.csproj.CoreCompileInputs.cache
+C:\Repos\CollectibleGame\sand\obj\Release\sand.exe
+C:\Repos\CollectibleGame\sand\obj\Release\sand.pdb
+C:\Repos\CollectibleGame\sand\obj\Release\CollectibleGame.csprojResolveAssemblyReference.cache
+C:\Repos\kellen-parkinson-individual-work\CollectibleGame\sand\bin\Release\sand.exe.config
+C:\Repos\kellen-parkinson-individual-work\CollectibleGame\sand\bin\Release\sand.exe
+C:\Repos\kellen-parkinson-individual-work\CollectibleGame\sand\bin\Release\sand.pdb
+C:\Repos\kellen-parkinson-individual-work\CollectibleGame\sand\obj\Release\CollectibleGame.csprojResolveAssemblyReference.cache
+C:\Repos\kellen-parkinson-individual-work\CollectibleGame\sand\obj\Release\CollectibleGame.csproj.CoreCompileInputs.cache
+C:\Repos\kellen-parkinson-individual-work\CollectibleGame\sand\obj\Release\sand.exe
+C:\Repos\kellen-parkinson-individual-work\CollectibleGame\sand\obj\Release\sand.pdb
